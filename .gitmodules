@@ -1,0 +1,3 @@
+[submodule "core/libcoap"]
+	path = core/libcoap
+	url = ssh://conz27@git.code.sf.net/u/conz27/libcoap
