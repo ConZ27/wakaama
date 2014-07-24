@@ -9,4 +9,4 @@ if [ ! -e $LIBCOAP_DIR/libcoap.a ]; then
     make
 fi
 
-cd $CLIENT_BIN_DIR && cmake -G"Eclipse CDT4 - Unix Makefiles" ../tests/server
+cd $CLIENT_BIN_DIR && cmake -G"Unix Makefiles" ../tests/server
