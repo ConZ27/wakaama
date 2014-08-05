@@ -45,8 +45,9 @@
  David Navarro <david.navarro@intel.com>
 
 */
-
+#define ERIBIUM_TYPES
 #include "internals.h"
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>

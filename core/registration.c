@@ -50,6 +50,7 @@
 
 */
 
+#define ERIBIUM_TYPES
 #include "internals.h"
 
 #include <stdlib.h>

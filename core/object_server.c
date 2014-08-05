@@ -33,6 +33,7 @@
 
 #ifdef LWM2M_CLIENT_MODE
 
+#define ERIBIUM_TYPES
 #include "internals.h"
 
 #define RESOURCE_SHORTID_ID     0

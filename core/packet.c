@@ -82,7 +82,7 @@ Contains code snippets which are:
 
 */
 
-
+#define ERIBIUM_TYPES
 #include "internals.h"
 
 #include <stdlib.h>

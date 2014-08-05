@@ -50,6 +50,7 @@
 
 #ifdef LWM2M_CLIENT_MODE
 
+#define ERIBIUM_TYPES
 #include "internals.h"
 
 #include <stdlib.h>

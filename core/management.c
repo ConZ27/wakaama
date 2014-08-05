@@ -46,7 +46,9 @@
 
 */
 
+#define ERIBIUM_TYPES
 #include "internals.h"
+
 #include <stdio.h>
 
 
